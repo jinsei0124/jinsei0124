@@ -41,6 +41,7 @@ Web/モバイルアプリ開発とAI活用、クラウドインフラに興味�
 - Power Apps / Dataverse
 - Claude Code
 - Gemini API
+
 **保有資格**
 
 - 基本情報技術者試験
