@@ -21,7 +21,7 @@ Web/モバイルアプリ開発とAI活用、クラウドインフラに興味�
 
 **クラウド・インフラ**
 
-![Skills](https://skillicons.dev/icons?i=aws,gcp,linux,nginx,docker,terraform)
+![Skills](https://skillicons.dev/icons?i=aws,gcp,linux,nginx)
 
 - Apache
 - AWS: S3, Lambda, DynamoDB, EC2, VPC, RDS 等
@@ -29,7 +29,7 @@ Web/モバイルアプリ開発とAI活用、クラウドインフラに興味�
 
 **フレームワーク・ライブラリ**
 
-![Skills](https://skillicons.dev/icons?i=react,nodejs,express)
+![Skills](https://skillicons.dev/icons?i=nodejs,express)
 
 - Jetpack Compose
 - Servlet/JSP
